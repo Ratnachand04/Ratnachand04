@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ratnachand
-- 👀 I’m interested in AI and cyber hacking.
+- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on health-tech
 - 📫 Reach me ratnachandkancharla@gmail.com
 
 <!---
