@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ratnachand
 - 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence.
-- 🌱 I’m currently learning Python.
 - 📫 Reach me ratnachandkancharla@gmail.com
 
 <!---
