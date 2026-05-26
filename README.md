@@ -6,7 +6,7 @@
 -  Python Libraries : Numpy, Pandas, Matplotlib, Seaborn, Flask, Scikit-Learn, Streamlit, Tensorflow, Pytorch, Torch vision, Open CV
 -  Project-1 (model type: ):
 -  Project-2 (model type: ):
--  Project-3:
+-  Project-3 (model type: ):
 -  Project-4:
 -  Project-5:
 <!---
