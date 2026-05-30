@@ -5,7 +5,7 @@
 -  Most used languages : python, rust, php
 -  Python Libraries : Numpy, Pandas, Matplotlib, Seaborn, Flask, Scikit-Learn, Streamlit, Tensorflow, Pytorch, Torch vision, Open CV
 -  Project-1 (model type: ): Dummy
--  Project-2 (model type: ):
+-  Project-2 (model type: ): Curry
 -  Project-3 (model type: ):
 -  Project-4 (model type: ):
 -  Project-5 (model type: ):
