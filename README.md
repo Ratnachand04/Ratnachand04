@@ -4,7 +4,7 @@
 -  Interested in Machine Learning, Deep Learning, Neural Networks
 -  Most used languages : python, rust, php
 -  Python Libraries : Numpy, Pandas, Matplotlib, Seaborn, Flask, Scikit-Learn, Streamlit, Tensorflow, Pytorch, Torch vision, Open CV
--  Project-1 (model type: ):
+-  Project-1 (model type: ): Dummy-1
 -  Project-2 (model type: ):
 -  Project-3 (model type: ):
 -  Project-4 (model type: ):
