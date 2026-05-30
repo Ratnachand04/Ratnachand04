@@ -7,7 +7,7 @@
 -  Project-1 (model type: ): Dummy
 -  Project-2 (model type: ): Curry
 -  Project-3 (model type: ): RatNet
--  Project-4 (model type: ):
+-  Project-4 (model type: ): Grag
 -  Project-5 (model type: ):
 <!---
 Ratnachand04/Ratnachand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
