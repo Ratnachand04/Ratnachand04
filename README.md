@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ratnachand
 - 📫 Reach me ratnachandkancharla@gmail.com
--  I may be slow to respond.
+-  I may be slow to respond, try to contact me several times.
 -  Interested in Machine Learning, Deep Learning, Neural Networks
 -  Most used languages : python, rust, php
 -  Python Libraries : Numpy, Pandas, Matplotlib, Seaborn, Flask, Scikit-Learn, Streamlit, Tensorflow, Pytorch, Torch vision, Open CV
